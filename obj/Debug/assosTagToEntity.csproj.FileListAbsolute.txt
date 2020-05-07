@@ -1,0 +1,16 @@
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\bin\Debug\assosTagToEntity.dll
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\bin\Debug\assosTagToEntity.pdb
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\bin\Debug\microsoft.crm.sdk.dll
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\bin\Debug\microsoft.crm.sdktypeproxy.dll
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\bin\Debug\microsoft.crm.sdktypeproxy.xmlserializers.dll
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\bin\Debug\microsoft.xrm.client.dll
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\bin\Debug\microsoft.xrm.client.xml
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\obj\Debug\assosTagToEntity.csproj.CopyComplete
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\obj\Debug\assosTagToEntity.dll
+C:\Users\sqli\source\repos\assosTagToEntity\assosTagToEntity\obj\Debug\assosTagToEntity.pdb
